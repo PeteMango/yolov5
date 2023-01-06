@@ -1,0 +1,6 @@
+path: ../datasets/hard_hat_workers
+train: ../train/images
+val: ../test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
